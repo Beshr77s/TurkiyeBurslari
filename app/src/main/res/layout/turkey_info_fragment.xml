@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="16dp"
+    android:elevation="8dp"
+    android:background="@drawable/raduis_fragment_bg"
+    >
+
+    <TextView
+        android:id="@+id/tvTi"
+        android:textSize="20sp"
+        android:background="@color/purple_700"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ماهي المنحة التركية" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tvTe"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#6C50EC"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="المنحة التركية هي السلام عليكم ورحمة الله وبركاته تستطيع من خلالها التقديم والحصول على دراسة جامعة شاملة لغة للسنة ةةة ة ةة  المنحة التركية هي السلام عليكم ورحمة الله وبركاته تستطيع من خلالها التقديم والحصول على دراسة جامعة شاملة لغة للسنة ةةة ة ةة  المنحة التركية هي السلام عليكم ورحمة الله وبركاته تستطيع من خلالها التقديم والحصول على دراسة جامعة شاملة لغة للسنة ةةة ة ةة  المنحة التركية هي السلام عليكم ورحمة الله وبركاته تستطيع من خلالها التقديم والحصول على دراسة جامعة شاملة لغة للسنة ةةة ة ةة  المنحة التركية هي السلام عليكم ورحمة الله وبركاته تستطيع من خلالها التقديم والحصول على دراسة جامعة شاملة لغة للسنة ةةة ة ةة  "
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396939343552",
+    "project_id": "turkey-71116",
+    "storage_bucket": "turkey-71116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396939343552:android:1ff61c07939747d46cdf25",
+        "android_client_info": {
+          "package_name": "com.qashar.turkeyscholiership"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396939343552-r7uh2sh1fu40nmm83sfsaa7hajmbhv31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGXoFeXt6B0dtNVSqQ452pK0EQsBj7MgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396939343552-r7uh2sh1fu40nmm83sfsaa7hajmbhv31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

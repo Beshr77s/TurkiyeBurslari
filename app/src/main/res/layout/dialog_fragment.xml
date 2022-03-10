@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_margin="10dp"
+    android:background="@drawable/raduis_fragment_bg"
+    android:elevation="8dp"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/tvMessage"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="للتسجيل في المنحة التركية يرجى التاكد من التواريخ المرفقة ومعرفة هل المنحة مفتوحة للتسجيل في الوقت الحالي للعلم يمكنك إدخال بياناتك في اي وقت حتى وإن كانت المنحة مغلقة في الوقت الحالي ادناه يوجد بعض الروابط لشرح كيفية التسجيل في المنحة التركية ^-^"
+        android:textStyle="bold" />
+
+</LinearLayout>
